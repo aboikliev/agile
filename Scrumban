@@ -1,0 +1,51 @@
+Scrumban
+
+
+Scrumban can be used for long-term projects that require ongoing maintenance.
+	
+Just like Scrum, Scrumban works in small iterations of 2 weeks and visualizes the entire project on a Scrumban board, which is similar to a Kanban board but gives you more information and freedom. From the Kanban system, this methodology takes the concepts of pulling work, limiting WIP, and continuous operations.
+Principles
+Improve Workflow Visualization – visualize every work activity/stage that an item goes through.
+Limit Work In Progress – limit how much work teams can have in every single work stage.
+Manage Flow – introduce flow principles inside iterations.
+Make Process Policies Explicit – create and visualize work policies that communicate the needs of the process.
+Implement Feedback Loops – analyze flow data as part of appropriate Scrum ceremonies (ex. Retrospectives).
+Improve Collaboratively – test and evolve your working practices constantly to discover the best fit for your unique process.
+
+Topics:
+Queues - how many and what purpose?
+Planning
+Prioritization
+Work In Progress - what limit?
+How to encourage teamwork?
+Sprint length - 2 weeks, 1 week?
+Demo, retrospective, daily?
+Lack of predictability?
+Less control ? (pull based approach)
+Metrics:
+Cycle Time: The amount of elapsed time between when a work item starts and when a work item finishes. 
+Work Item Age: The amount of time between when a work item started and the current time. This applies only to items that are still in progress. 
+Throughput: The number of work items finished per unit of time
+
+From Nasko:
+1. What is the feedback of the team after adopting Scrum?
+2. Why are team members not proactive?
+
+
+
+
+Questions:
+When developer can not pull top priority ticket - from TODO column - team should decide if dev can get second or third ticket - but encourage little training/support so dev is capable of getting top priority ticket - https://youtu.be/CiNuIK_B5i4?t=327
+
+
+Resources:
+Articles:
+https://scrumorg-website-prod.s3.amazonaws.com/drupal/2021-01/01-2021%20Kanban%20Guide.pdf?nexus-file=https%3A%2F%2Fscrumorg-website-prod.s3.amazonaws.com%2Fdrupal%2F2021-01%2F01-2021%2520Kanban%2520Guide.pdfhttps://scrumorg-website-prod.s3.amazonaws.com/drupal/2021-01/01-2021%20Kanban%20Guide.pdf?nexus-file=https%3A%2F%2Fscrumorg-website-prod.s3.amazonaws.com%2Fdrupal%2F2021-01%2F01-2021%2520Kanban%2520Guide.pdf
+https://ora.pm/blog/scrumban/
+https://appmaster.io/blog/guide-for-scrumban-methodology
+https://kissflow.com/project/agile/guide-to-scrumban-methodology/
+https://kanbanzone.com/2019/implementing-scrumban-adding-sprints-to-your-kanban-workflow/https://www.getclockwise.com/blog/scrumban
+
+
+Videos:
+Scrum vs Kanban vs Scrumban
